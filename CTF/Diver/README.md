@@ -3,7 +3,7 @@
 
 ```bash
 git clone <repo>
-cd diver
+cd Diver
 docker compose up --build
 ```
 
