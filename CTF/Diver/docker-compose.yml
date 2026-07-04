@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+  diver:
+    build: .
+    ports:
+      - "8088:80"
+    volumes:
+      - diver_data:/data
+    restart: unless-stopped
+
+volumes:
+  diver_data:
